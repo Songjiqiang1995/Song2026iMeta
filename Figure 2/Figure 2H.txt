@@ -1,0 +1,11 @@
+PAH				
+	Enterococcus faecalis & GFP	0.951666	0.803943	1.307044
+	Enterococcus faecalis & NvLSFlhE	0.644799	0.418504561	0.187249619
+				
+TH				
+	Enterococcus faecalis & GFP	1.105193198	0.658526068	1.374006632
+	Enterococcus faecalis & NvLSFlhE	0.954043512	0.251139939	1.014504216
+				
+AADC				
+	Enterococcus faecalis & GFP	1.322195	0.92189551	0.820395055
+	Enterococcus faecalis & NvLSFlhE	0.021361	0.119959361	0.020561249

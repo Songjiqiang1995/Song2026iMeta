@@ -1,0 +1,11 @@
+Levodopa							
+	Enterococcus faecalis & GFP	5.347552	5.212635	5.107736	5.502753	5.151643	5.195374
+	Enterococcus faecalis & NvLSFlhE	0.954243	0.954243	0.954243	0.954243	0.954243	0.954242509
+							
+Dopamine							
+	Enterococcus faecalis & GFP	5.175984	5.097414	5.178058	5.080359	5.114681	5.267298
+	Enterococcus faecalis & NvLSFlhE	0.954243	0.954243	0.954243	0.954243	0.954243	0.954242509
+							
+N-acetyldopamine							
+	Enterococcus faecalis & GFP	6.092357	5.925915	6.207946	5.992175	6.141902	6.159143
+	Enterococcus faecalis & NvLSFlhE	2.948413	2.783189	3.222196	3.152594	2.944483	3.225567713

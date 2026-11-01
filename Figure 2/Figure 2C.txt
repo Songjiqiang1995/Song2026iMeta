@@ -1,0 +1,6 @@
+Larval mortality rate (%)			
+H2O	0	10	10
+GFP	10	10	10
+NvLSFlhE	10	0	10
+Enterococcus faecalis & GFP	40	20	30
+Enterococcus faecalis & NvLSFlhE	50	80	80

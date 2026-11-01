@@ -1,0 +1,29 @@
+		Day 1	
+	Relative expression_1	Relative expression_2	Relative expression_3
+H2O	1.038746	0.86622	1.111387
+Enterococcus faecalis & GFP	0.369347	0.753571	0.985526
+Enterococcus faecalis & NvLSFlhE	0.354717	0.293031	0.286056
+			
+		Day 3	
+	Relative expression_1	Relative expression_2	Relative expression_3
+H2O	2.158108	0.79037	0.586272
+Enterococcus faecalis & GFP	1.808942	1.596324	0.886269
+Enterococcus faecalis & NvLSFlhE	1.857392	1.793243	4.141107
+			
+		Day 5	
+	Relative expression_1	Relative expression_2	Relative expression_3
+H2O	1.192303	1.170654	0.716446
+Enterococcus faecalis & GFP	1.525641	1.272057	0.78298
+Enterococcus faecalis & NvLSFlhE	2.270582	2.188703	1.792013
+			
+		Day 7	
+	Relative expression_1	Relative expression_2	Relative expression_3
+H2O	1.147932	1.234426	0.705694
+Enterococcus faecalis & GFP	1.863141	1.811416	0.83695
+Enterococcus faecalis & NvLSFlhE	4.824396	4.72109	4.63539
+			
+		Day 9	
+	Relative expression_1	Relative expression_2	Relative expression_3
+H2O	1.399715	1.157556	0.617186
+Enterococcus faecalis & GFP	0.889906	0.934199	0.65971
+Enterococcus faecalis & NvLSFlhE	6.359324	6.293401	4.943237
