@@ -1,0 +1,13 @@
+Daily pupation rate (%)					
+	Day 8	NC	23.529	25	41.66666667
+		siRNA	16.667	0	10
+					
+	Day 9	NC	82.3529	87.5	66.6667
+		siRNA	66.6667	54.5454545	60
+					
+	Day 10	NC	100	100	100
+		siRNA	100	100	100
+					
+Larval duration (Days)					
+	NC	8.941176	8.875	8.916666667	
+	siRNA	9.166667	9.454545	9.3	

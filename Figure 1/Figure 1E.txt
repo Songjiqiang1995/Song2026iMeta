@@ -1,0 +1,4 @@
+	Relative expression_1	Relative expression_2	Relative expression_3
+NC	0.943035	0.929850519	1.140410568
+siRNA	0.300413	0.237483096	0.254293338
+

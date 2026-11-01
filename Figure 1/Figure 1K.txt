@@ -1,0 +1,16 @@
+OD (600 nm)	Enterococcus faecalis & BSA	0.544379	0.458574	0.489758
+	Enterococcus faecalis & NvLSFlhE	0.765102	0.911024	0.983128
+				
+Bacterial vitality (RLU)	Enterococcus faecalis & BSA	33365.7	26473.1	24283.6
+	Enterococcus faecalis & NvLSFlhE	43535	47866.8	48172.5
+				
+Hemocytes	PBS 	6.15746	6.16405	6.27092
+	Enterococcus faecalis	4.94074	5.40548	4.92063
+	Stenotrophomonas acidaminiphila 	9.38768	8.42714	7.7551
+	Acinetobacter bereziniae	6.00878	6.31692	5.80958
+				
+Hemocytes	PBS & BSA	6.04049	5.58883	5.70787
+	PBS & NvLSFlhE	5.27086	4.65224	3.77314
+				
+Hemocytes	Enterococcus faecalis & BSA	1.6119	2.56377	4.33919
+	Enterococcus faecalis & NvLSFlhE	8.01239	7.73521	8.29246
